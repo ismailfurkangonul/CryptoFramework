@@ -1,0 +1,8 @@
+C:\Users\ARIBILGI\Desktop\uygulama\CryptoFramework\CryptoFramework\bin\Debug\CryptoFramework.exe.config
+C:\Users\ARIBILGI\Desktop\uygulama\CryptoFramework\CryptoFramework\bin\Debug\CryptoFramework.exe
+C:\Users\ARIBILGI\Desktop\uygulama\CryptoFramework\CryptoFramework\bin\Debug\CryptoFramework.pdb
+C:\Users\ARIBILGI\Desktop\uygulama\CryptoFramework\CryptoFramework\obj\Debug\CryptoFramework.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\uygulama\CryptoFramework\CryptoFramework\obj\Debug\CryptoFramework.csproj.SuggestedBindingRedirects.cache
+C:\Users\ARIBILGI\Desktop\uygulama\CryptoFramework\CryptoFramework\obj\Debug\CryptoFramework.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\uygulama\CryptoFramework\CryptoFramework\obj\Debug\CryptoFramework.exe
+C:\Users\ARIBILGI\Desktop\uygulama\CryptoFramework\CryptoFramework\obj\Debug\CryptoFramework.pdb
